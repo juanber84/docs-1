@@ -12,36 +12,36 @@
     "get_started": "Comenzando",
     "github": "GitHub",
     "guide": "Guia",
-    "homepage": "Pagina principal",
+    "homepage": "Página principal",
     "live_demo": "Demo en vivo",
-    "live_edit": "Editar en vivo",
+    "live_edit": "Editar en linea",
     "twitter": "Twitter",
     "vuejs": "Vue.js",
     "vue_jobs": "Trabajos en Vue.js"
   },
   "text": {
     "an_error_occured": "Ha ocurrido un error",
-    "api_page_not_found": "La pagina de la API no se encuentra",
+    "api_page_not_found": "No se encuentra la pagina de la API",
     "example_file": "Archivos de ejemplo",
     "please_wait": "Por favor espere...",
-    "please_define_title": "Por favor defina un titulo en la pagina delantera",
-    "please_define_description": "Por favor defina una descripcion en la pagina delantera",
+    "please_define_title": "Por favor defina un título en la página delantera",
+    "please_define_description": "Por favor defina una descripción en la página delantera",
     "search": "Buscar",
-    "version": "Version"
+    "version": "Versión"
   },
   "homepage": {
     "title": "Aplicaciónes VueJs universales",
     "meta": {
       "title": "Nuxt.js - Aplicaciones VueJs universales",
-      "description": "Nuxt es un framework minimalista para crear aplicaciones Vue.js que se renderizables del lado del servidor, division de codigo, recarga en caliente, generacion estatica y mucho mas!"
+      "description": "Nuxt es un framework minimalista para crear aplicaciones Vue.js renderizables del lado del servidor, con división de codigo, recarga en caliente, generación estatica y mucho mas!"
     }
   },
   "footer": {
-    "authors": "Made by Chopin Brothers"
+    "authors": "Desarrollado por Chopin Brothers"
   },
   "guide": {
-    "release_notes": "Notas de la version",
-    "contribute": "Ha atrapado algun error o desea contribuir en la documentación?",
+    "release_notes": "Notas de la versión",
+    "contribute": "¿Ha encontrado algun error o desea contribuir en la documentación?",
     "edit_on_github": "Edite esta pagina en GitHub"
   },
   "examples": {
